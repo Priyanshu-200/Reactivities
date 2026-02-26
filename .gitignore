@@ -1,4 +1,23 @@
+# Dependency directories
+node_modules/
 
-.vs/
+# Optional npm cache directory
+.npm
 
-.vs/
+# Environment variables file
+.env
+
+# Build output directories
+/build
+/dist
+
+# Log files
+*.log
+npm-debug.log*
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
