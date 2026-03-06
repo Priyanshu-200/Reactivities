@@ -2,19 +2,20 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 import agent from "../types/api/agent";
 import { useLocation } from "react-router";
-import type { Activity } from "../types";
 import type { FieldValues } from "react-hook-form";
+import { useAccount } from "./useAccount";
 
 export const useActivities = (id?: string) => {
   const queryClient = useQueryClient();
+  const currentUser = useAccount();
   const location = useLocation();
-  const { data: activities, isPending } = useQuery({
+  const { data: activities, isLoading } = useQuery({
     queryKey: ["activities"],
     queryFn: async () => {
       const response = await agent.get<Activity[]>("/activities");
       return response.data;
     },
-    enabled: !id && location.pathname === "/activities",
+    enabled: !id && location.pathname === "/activities" && !!currentUser,
   });
   const { data: activity, isLoading: isLoadingActivity } = useQuery({
     queryKey: ["activities", id],
@@ -22,7 +23,7 @@ export const useActivities = (id?: string) => {
       const response = await agent.get<Activity>(`/activities/${id}`);
       return response.data;
     },
-    enabled: !!id,
+    enabled: !!id && !!currentUser,
   });
   const updateActivity = useMutation({
     mutationFn: async (activity: Activity) => {
@@ -54,7 +55,7 @@ export const useActivities = (id?: string) => {
 
   return {
     activities,
-    isPending,
+    isLoading,
     updateActivity,
     createActivity,
     deleteActivity,

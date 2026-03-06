@@ -12,7 +12,7 @@ import LocationInput from "../../../app/shared/components/LocationInput";
 import {
   type ActivitySchema,
   activitySchema,
-} from "../../../lib/schemas/ActivitySchema";
+} from "../../../lib/schemas/activitySchema";
 
 export default function ActivityForm() {
   const { control, reset, handleSubmit } = useForm<ActivitySchema>({
