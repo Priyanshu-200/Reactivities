@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cEOGzbwN3lJ1OtIU3pCHNFWRDhBAz3qmSfkahag1ywvRsc4MxJ+Do6ixw8ay/913+U4zZRNXLzGkoGItjhJSFQ==",
+  "dgSpecHash": "YXNcaSzvtNs3JceXdsZlumqO4itS+SUqhxHNlFIkIgpbDauCJXKwE/EdUFV9Rgm/2qXUQrZBD9ekNfG6jqX/Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -42,5 +42,16 @@
     "C:\\Users\\PriyanshuSo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
     "C:\\Users\\PriyanshuSo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
