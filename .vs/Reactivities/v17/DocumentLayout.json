@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PriyanshuSo\\Reactivities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\core\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\core\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\activities\\queries\\getactivitylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\activities\\queries\\getactivitylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\activities\\queries\\getactivitydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\activities\\queries\\getactivitydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\profiles\\queries\\getprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\profiles\\queries\\getprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\profiles\\queries\\getfollowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\profiles\\queries\\getfollowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91281936-3723-4C84-AF30-6D6B14ABCC15}|Persistence\\Persistence.csproj|c:\\users\\priyanshuso\\reactivities\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91281936-3723-4C84-AF30-6D6B14ABCC15}|Persistence\\Persistence.csproj|solutionrelative:persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\profiles\\commands\\followtoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\profiles\\commands\\followtoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388DB24D-D17B-4D49-B4E1-06CF16E1E62C}|API\\API.csproj|c:\\users\\priyanshuso\\reactivities\\api\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388DB24D-D17B-4D49-B4E1-06CF16E1E62C}|API\\API.csproj|solutionrelative:api\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5B1DB6-E525-47A1-81F2-4012BF2E7998}|Domain\\Domain.csproj|c:\\users\\priyanshuso\\reactivities\\domain\\userfollowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5B1DB6-E525-47A1-81F2-4012BF2E7998}|Domain\\Domain.csproj|solutionrelative:domain\\userfollowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|c:\\users\\priyanshuso\\reactivities\\application\\profiles\\dtos\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB92B-046A-4B74-AC81-1B1252FF579D}|Application\\Application.csproj|solutionrelative:application\\profiles\\dtos\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5B1DB6-E525-47A1-81F2-4012BF2E7998}|Domain\\Domain.csproj|c:\\users\\priyanshuso\\reactivities\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5B1DB6-E525-47A1-81F2-4012BF2E7998}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetActivityList.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Activities\\Queries\\GetActivityList.cs",
+              "RelativeDocumentMoniker": "Application\\Activities\\Queries\\GetActivityList.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Activities\\Queries\\GetActivityList.cs",
+              "RelativeToolTip": "Application\\Activities\\Queries\\GetActivityList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:23:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetActivityDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Activities\\Queries\\GetActivityDetails.cs",
+              "RelativeDocumentMoniker": "Application\\Activities\\Queries\\GetActivityDetails.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Activities\\Queries\\GetActivityDetails.cs",
+              "RelativeToolTip": "Application\\Activities\\Queries\\GetActivityDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:21:18.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Queries\\GetProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Profiles\\Queries\\GetProfile.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Queries\\GetProfile.cs",
+              "RelativeToolTip": "Application\\Profiles\\Queries\\GetProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:19:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Core\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Application\\Core\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Core\\MappingProfiles.cs",
+              "RelativeToolTip": "Application\\Core\\MappingProfiles.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:37:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\DTOs\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Profiles\\DTOs\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\DTOs\\UserProfile.cs",
+              "RelativeToolTip": "Application\\Profiles\\DTOs\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:36:28.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetFollowings.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Queries\\GetFollowings.cs",
+              "RelativeDocumentMoniker": "Application\\Profiles\\Queries\\GetFollowings.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Queries\\GetFollowings.cs",
+              "RelativeToolTip": "Application\\Profiles\\Queries\\GetFollowings.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCgAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:25:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\API\\Controllers\\ProfilesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProfilesController.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\API\\Controllers\\ProfilesController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProfilesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:59:08.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowToggle.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Commands\\FollowToggle.cs",
+              "RelativeDocumentMoniker": "Application\\Profiles\\Commands\\FollowToggle.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Application\\Profiles\\Commands\\FollowToggle.cs",
+              "RelativeToolTip": "Application\\Profiles\\Commands\\FollowToggle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:36:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Persistence\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "Persistence\\DbInitializer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:13:56.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:57:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserFollowing.cs",
+              "DocumentMoniker": "C:\\Users\\PriyanshuSo\\Reactivities\\Domain\\UserFollowing.cs",
+              "RelativeDocumentMoniker": "Domain\\UserFollowing.cs",
+              "ToolTip": "C:\\Users\\PriyanshuSo\\Reactivities\\Domain\\UserFollowing.cs",
+              "RelativeToolTip": "Domain\\UserFollowing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:54:26.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
